@@ -4,8 +4,8 @@
  * @refactorable false
  * @classification Business Service
  * @complexity Medium
- * @fingerprint exports:1,imports:3,sig:11ojn7g
- * @lastUpdated 2026-06-25T10:15:21.368Z
+ * @fingerprint exports:2,imports:4,sig:p20w7n
+ * @lastUpdated 2026-07-01T08:40:48.307Z
  */
 
 import { withIndustrialAuth } from '@ajabadia/satellite-sdk/auth-middleware';
